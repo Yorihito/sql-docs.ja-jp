@@ -70,7 +70,7 @@ SET DATEFIRST 7 ;
 |**4**|Thursday|  
 |**5**|金曜日|  
 |**6**|土曜日|  
-|**7** (米国英語、既定値)|土曜日|  
+|**7** (米国英語、既定値)|日曜日|  
   
 ## <a name="remarks"></a>注釈  
  SET DATEFIRST の現在の設定を確認するには、[@@DATEFIRST](../../t-sql/functions/datefirst-transact-sql.md) 関数を使います。  
